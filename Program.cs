@@ -12,7 +12,7 @@ namespace Hälsa_användare
         {
             Console.WriteLine("Vad heter du?");
             string namn = Console.ReadLine();
-            Console.WriteLine("Hej " + namn + ", Välkommen till programmet!");
+            Console.WriteLine("Hej på dig " + namn + ", Välkommen till programmet!");
             Console.ReadLine();
         }
 
