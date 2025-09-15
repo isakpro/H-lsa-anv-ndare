@@ -1,0 +1,7 @@
+C:\Users\isakr\source\repos\Hälsa användare\Hälsa användare\obj\Debug\Hälsa användare.csproj.AssemblyReference.cache
+C:\Users\isakr\source\repos\Hälsa användare\Hälsa användare\obj\Debug\Hälsa användare.csproj.CoreCompileInputs.cache
+C:\Users\isakr\source\repos\Hälsa användare\Hälsa användare\bin\Debug\Hälsa användare.exe.config
+C:\Users\isakr\source\repos\Hälsa användare\Hälsa användare\bin\Debug\Hälsa användare.exe
+C:\Users\isakr\source\repos\Hälsa användare\Hälsa användare\bin\Debug\Hälsa användare.pdb
+C:\Users\isakr\source\repos\Hälsa användare\Hälsa användare\obj\Debug\Hälsa användare.exe
+C:\Users\isakr\source\repos\Hälsa användare\Hälsa användare\obj\Debug\Hälsa användare.pdb
